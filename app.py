@@ -6,7 +6,7 @@ import streamlit as st
 from dotenv import load_dotenv
 
 load_dotenv()
-API_KEY = os.getenv("API_KEY")
+API_KEY = st.secrets.get("API_KEY") or os.getenv("API_KEY")
 BASE = "https://www.alphavantage.co/query"
 
 st.set_page_config(page_title="Comps Tool", layout="wide", page_icon="📊")
