@@ -1,5 +1,5 @@
 ﻿# Comps Tool
- [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://comps-tool.streamlit.app/)
+ https://comps-tool-ih2zx5wjnb3dx9my7yukyz.streamlit.app/
 # Automated Comparable Company Analysis Tool
 
 A Python script that automatically pulls live financial data via the Alpha Vantage API and generates a comparable company analysis (comps) table — the core valuation tool used in investment banking.
@@ -32,3 +32,4 @@ A Python script that automatically pulls live financial data via the Alpha Vanta
 
 - openpyxl
   <img width="1286" height="566" alt="image" src="https://github.com/user-attachments/assets/6924883e-5470-4cb8-9958-61158043902b" />
+
